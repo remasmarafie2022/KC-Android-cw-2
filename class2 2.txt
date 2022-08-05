@@ -1,0 +1,14 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	int remas = 160 ;
+	
+	if (remas > 160){ 
+	    System.out.println("join us");
+	}
+	else {
+	    System.out.println("you cant"); 
+	    	}
+	}
+}	
